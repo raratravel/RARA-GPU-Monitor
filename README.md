@@ -1,3 +1,6 @@
+<img width="1477" height="846" alt="Screenshot 2026-11-03 015653" src="https://github.com/user-attachments/assets/ba1f6186-aad7-42c8-81d9-4dc516549673" />
+<img width="1473" height="852" alt="Screenshot 2026-11-03 015700" src="https://github.com/user-attachments/assets/df27cfd1-38d5-4ea1-994b-4241d5d31fa5" />
+<img width="1477" height="846" alt="Screenshot 2026-11-03 015720" src="https://github.com/user-attachments/assets/bdac4604-4990-4bcf-bc0a-bcdf0f270f7a" />
 # RARA GPU Monitor
 
 Free NVIDIA GPU Monitoring Application for Windows.
