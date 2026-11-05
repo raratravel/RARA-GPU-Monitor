@@ -41,6 +41,21 @@ Available monitoring measurements depend on GPU and driver support.
 3. Launch RARA GPU Monitor.
 4. View your GPU statistics.
 
+5. ## Download RARA GPU Monitor
+
+RARA GPU Monitor is available free for Windows 10 and Windows 11.
+
+Microsoft Store:
+https://apps.microsoft.com/detail/9nw3gvl17k83
+
+GitHub Releases:
+https://github.com/raratravel/RARA-GPU-Monitor/releases/latest
+
+Official Website:
+https://raralogy.com
+
+Choose Microsoft Store for convenient installation and updates, or download the Windows Setup EXE from GitHub Releases.
+
 ## Web Dashboard
 
 RARA GPU Monitor includes an optional browser-based dashboard for local monitoring.
